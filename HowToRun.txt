@@ -1,0 +1,4 @@
+Hướng dẫn chạy file notebook với môi trường min_ds-env: (windows powershell)
+1. Khởi động môi trường bằng lệnh: conda activate min_ds-env
+2. Khởi động jupyter notebook bằng lệnh: jupyter notebook
+3. Sau khi đã mở file ipynb: chọn Kernel -> Restart & Run All
